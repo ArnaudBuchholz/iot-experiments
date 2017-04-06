@@ -5,6 +5,8 @@ Repository to store discoveries, programs and articles made around IOT
 
 You need [Arduino IDE](https://www.arduino.cc/en/Main/Software) to compile and upload your programs.
 
+[Language reference](https://www.arduino.cc/en/Reference/HomePage)
+
 ## Tested component
 
 ### Wemos D1 miniPro
